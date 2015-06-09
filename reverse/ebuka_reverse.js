@@ -5,4 +5,4 @@ function reverse(s) {
     h += s[i];
   return h;
 }
-reverse(s);
+console.log(reverse(s));
