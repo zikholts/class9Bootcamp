@@ -5,4 +5,4 @@ function reverse(s) {
     o.push(s.charAt(len - i));
   return o.join('');
 }
-reverse (x);
+ console.log(reverse (x));
