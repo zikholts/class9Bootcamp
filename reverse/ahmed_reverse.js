@@ -1,5 +1,5 @@
 var reverse = "University";
-var hits = []
+var hits = [];
 for (var i = reverse.length-1; i >= 0 ; i-- ) {
 	(hits.push(reverse[i]));
 }
