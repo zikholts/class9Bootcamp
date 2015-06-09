@@ -3,4 +3,4 @@ var aword = function(word)
 	return word.split('').reverse().join('')
 }
 
-console.log(aword("drow a"))
+console.log(aword("University"))
