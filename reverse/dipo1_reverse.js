@@ -1,5 +1,0 @@
-var str = "University";
-
-for () {
-	
-}
