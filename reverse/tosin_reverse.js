@@ -1,5 +1,3 @@
 var str = "University";
 
-for () {
-	
-}
+
